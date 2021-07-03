@@ -1,0 +1,23 @@
+.judul {
+  background: silver;
+  padding: 10px;
+}
+#orientasi {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  color: ;
+}
+
+.pinggirKanan {
+  background: rosybrown;
+  text-align: right;
+  color: blue;
+}
+
+.pinggirKanan a {
+  color: aliceblue;
+}
+
+.pinggirKanan a:hover {
+  color: seagreen;
+}
